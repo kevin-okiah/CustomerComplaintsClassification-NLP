@@ -942,36 +942,7 @@ s
         }    #T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row3_col3 {
             background-color:  #0808ff;
             color:  #f1f1f1;
-        }</style><table id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >max</th>        <th class="col_heading level0 col1" >mean</th>        <th class="col_heading level0 col2" >median</th>        <th class="col_heading level0 col3" >std</th>    </tr>    <tr>        <th class="index_name level0" >Classifier</th>        <th class="blank" ></th>        <th class="blank" ></th>        <th class="blank" ></th>        <th class="blank" ></th>    </tr></thead><tbody>
-                <tr>
-                        <th id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259level0_row0" class="row_heading level0 row0" >Linear SVC</th>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row0_col0" class="data row0 col0" >0.822965</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row0_col1" class="data row0 col1" >0.804455</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row0_col2" class="data row0 col2" >0.809952</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row0_col3" class="data row0 col3" >0.0235719</td>
-            </tr>
-            <tr>
-                        <th id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259level0_row1" class="row_heading level0 row1" >Logistic Regression</th>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row1_col0" class="data row1 col0" >0.814334</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row1_col1" class="data row1 col1" >0.727041</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row1_col2" class="data row1 col2" >0.786085</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row1_col3" class="data row1 col3" >0.205768</td>
-            </tr>
-            <tr>
-                        <th id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259level0_row2" class="row_heading level0 row2" >Naive Bayes</th>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row2_col0" class="data row2 col0" >0.810977</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row2_col1" class="data row2 col1" >0.757487</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row2_col2" class="data row2 col2" >0.757487</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row2_col3" class="data row2 col3" >0.0617646</td>
-            </tr>
-            <tr>
-                        <th id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259level0_row3" class="row_heading level0 row3" >Random Forest</th>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row3_col0" class="data row3 col0" >0.722961</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row3_col1" class="data row3 col1" >0.349819</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row3_col2" class="data row3 col2" >0.292646</td>
-                        <td id="T_08c414f6_9b51_11e9_a0ff_4cedfb93a259row3_col3" class="data row3 col3" >0.198683</td>
-            </tr>
-    </tbody></table>
+        }</style>
 
 
 
